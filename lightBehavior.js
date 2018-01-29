@@ -19,7 +19,6 @@ var autoOffTimeSlider
 
 // Utility Function: Convert an RGB values (in tegers) to a string for use in HTML/CSS styles.
 function rgb(r,g,b) {
-// TODO: Remove a +
   return "rgb(" + r + "," + g + ","  b + ")";
 }
 
